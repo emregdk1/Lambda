@@ -1,8 +1,6 @@
-package day01_fonksiyonel;
+package fonksiyonel;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 // Javada Lambda fonksiyonları sadece Fonksiyonel interface'ler ile kullanılabilir.

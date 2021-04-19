@@ -1,4 +1,4 @@
-package day02_streamOrnekler;
+package streamOrnekler;
 
 import java.util.stream.IntStream;
 
